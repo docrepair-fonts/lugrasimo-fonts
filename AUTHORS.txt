@@ -5,4 +5,5 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
-Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com)
+Google LLC <fonts@google.com>
+Brian J. Bonislawsky DBA Astigmatic (AOETI) <astigma@astigmatic.com>
