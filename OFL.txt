@@ -1,4 +1,4 @@
-Copyright 2023 The Dr Vivigraph Project Authors (github.com/googlefonts/dr-vivigraph), with Reserved Font Names "Fondamento" and "Fondamento Italic"
+Copyright 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Names "Fondamento" and "Fondamento Italic". Copyright 2023 The Dr Vivigraph Project Authors (github.com/googlefonts/dr-vivigraph).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
