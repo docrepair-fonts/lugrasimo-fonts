@@ -17,9 +17,10 @@ Bonislawsky for Astigmatic (AOETI).
 
 ## ChangeLog
 
-9 March 2023 (Adam Twardoch)
+**9 March 2023 (Adam Twardoch)**
 
-- Design adjustments
+- MINOR First commit
+- MAJOR Design adaptation
 
 ## Acknowledgements
 
