@@ -12,9 +12,8 @@ is based on Fondamento.
 Fondamento & Fondamento Italic are calligraphic lettering styles based
 on the traditional Foundational Hand, a basic teaching style created 
 by Edward Johnston in the early 20th century. The letterforms are clear
-and cleanly legible, basic and formal.
-
-Designed by Brian J. Bonislawsky for Astigmatic (AOETI).
+and cleanly legible, basic and formal. They were designed by Brian J. 
+Bonislawsky for Astigmatic (AOETI).
 
 ## ChangeLog
 
@@ -22,17 +21,18 @@ Designed by Brian J. Bonislawsky for Astigmatic (AOETI).
 
 - Design adjustments
 
-17 November 2001 (v.1.01) (Brian J. Bonislawsky)
-
-— Minor design adjustments: reworked /W/ /w/ and /Z/ /z/
-
 ## Acknowledgements
 
 If you make modifications be sure to add your name (N),
 email (E), web-address (if you have one) (W) and description (D). 
 This list is in alphabetical order.
 
+N: Adam Twardoch
+E: adam@twardoch.com
+W: www.twardoch.com
+D: Typeface & Software Designer
+
 N: Brian J. Bonislawsky
 E: astigma@astigmatic.com
 W: www.astigmatic.com
-D: Typeface & Software Designer
+D: Typeface & Software Designer of original source material
