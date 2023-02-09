@@ -7,4 +7,5 @@
 # name or J's organization's name should be added to AUTHORS.txt
 #
 # Names should be added to this file as:
-# Name <email address>
+Adam Twardoch (adam+github@twardoch.com)
+Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com)

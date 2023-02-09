@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+  <advance width="1197"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="690.05" y="-280" type="curve"/>
+      <point x="641.789" y="-350.053"/>
+      <point x="305.298" y="-519"/>
+      <point x="220.294" y="-519" type="curve" smooth="yes"/>
+      <point x="127.972" y="-519"/>
+      <point x="72.1996" y="-441.949"/>
+      <point x="72.1996" y="-354.811" type="curve" smooth="yes"/>
+      <point x="72.1996" y="-169.345"/>
+      <point x="323.223" y="3.5879"/>
+      <point x="479.789" y="59" type="curve"/>
+      <point x="403.503" y="-1.11923"/>
+      <point x="309.472" y="-101.004"/>
+      <point x="309.472" y="-204.62" type="curve" smooth="yes"/>
+      <point x="309.472" y="-294.059"/>
+      <point x="381.61" y="-368"/>
+      <point x="471.466" y="-368" type="curve" smooth="yes"/>
+      <point x="548.63" y="-368"/>
+      <point x="621.232" y="-309.898"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

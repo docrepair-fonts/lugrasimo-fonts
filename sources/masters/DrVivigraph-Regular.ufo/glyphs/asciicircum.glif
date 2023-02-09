@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="2">
+  <advance width="1295"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="999.227" y="957" type="curve" smooth="yes"/>
+      <point x="999.227" y="935.546"/>
+      <point x="788.197" y="840.184"/>
+      <point x="755.254" y="812" type="curve"/>
+      <point x="666.977" y="1236" type="line"/>
+      <point x="605.139" y="1145.02"/>
+      <point x="543.887" y="1053.55"/>
+      <point x="481.426" y="963" type="curve" smooth="yes"/>
+      <point x="430.583" y="889.291"/>
+      <point x="287.288" y="869.296"/>
+      <point x="239.254" y="812" type="curve"/>
+      <point x="633.947" y="1401" type="line" smooth="yes"/>
+      <point x="653.28" y="1429.85"/>
+      <point x="832.764" y="1524.8"/>
+      <point x="875.721" y="1550" type="curve"/>
+      <point x="905.637" y="1418.79"/>
+      <point x="933.796" y="1287.07"/>
+      <point x="961.457" y="1155.37" type="curve" smooth="yes"/>
+      <point x="970.652" y="1111.59"/>
+      <point x="999.227" y="998.114"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  </dict>
+  </lib>
+</glyph>

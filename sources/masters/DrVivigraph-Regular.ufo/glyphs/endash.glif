@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="2">
+  <advance width="1024"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="939.278" y="677" type="line"/>
+      <point x="871.513" y="661.043"/>
+      <point x="757.27" y="528"/>
+      <point x="695.505" y="528" type="curve" smooth="yes"/>
+      <point x="356.505" y="528" type="line"/>
+      <point x="426.518" y="544.258"/>
+      <point x="536.685" y="677"/>
+      <point x="603.278" y="677" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+  <advance width="558"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="618.052" y="821" type="line"/>
+      <point x="374.279" y="672" type="line"/>
+      <point x="295.846" y="855" type="line"/>
+      <point x="540.019" y="1006" type="line"/>
+    </contour>
+    <contour>
+      <point x="173.256" y="-309" type="curve"/>
+      <point x="242.728" y="-251.95"/>
+      <point x="336.62" y="-147.543"/>
+      <point x="336.62" y="-52.3416" type="curve" smooth="yes"/>
+      <point x="336.62" y="-28.4325"/>
+      <point x="329.548" y="-2"/>
+      <point x="300.6" y="-2" type="curve" smooth="yes"/>
+      <point x="280.133" y="-2"/>
+      <point x="248.383" y="-22.8959"/>
+      <point x="231.206" y="-34" type="curve"/>
+      <point x="155.173" y="151" type="line"/>
+      <point x="396.946" y="300" type="line"/>
+      <point x="429.902" y="229.541"/>
+      <point x="467.759" y="159.023"/>
+      <point x="467.759" y="79.0908" type="curve" smooth="yes"/>
+      <point x="467.759" y="-67.7164"/>
+      <point x="354.317" y="-203.493"/>
+      <point x="232.449" y="-273" type="curve" smooth="yes"/>
+      <point x="212.343" y="-284.467"/>
+      <point x="192.265" y="-295.734"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  </dict>
+  </lib>
+</glyph>

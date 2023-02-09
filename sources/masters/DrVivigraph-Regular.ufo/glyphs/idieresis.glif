@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="2">
+  <advance width="771"/>
+  <unicode hex="00EF"/>
+  <anchor x="284" y="0" name="bottom"/>
+  <anchor x="595.998" y="10" name="ogonek"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dieresis" xOffset="-557.168" yOffset="-176"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  <key>com.fontlab.recipe</key>
+  <string>idotless+dieresis</string>
+  </dict>
+  </lib>
+</glyph>
