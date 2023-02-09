@@ -17,15 +17,20 @@ Based on [Fondamento]
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-vivigraph-fonts.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-vivigraph-fonts.git%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+Dr Vivigraphs Dr Vivigraph is a DocRepair font intended for improving 
+document compatibility with the ISO/IEC 29500 standard. Dr Vivigraph 
+is based on Fondamento. 
 
-Don't hesitate to create images!
+Fondamento & Fondamento Italic are calligraphic lettering styles based
+on the traditional Foundational Hand, a basic teaching style created 
+by Edward Johnston in the early 20th century. The letterforms are clear
+and cleanly legible, basic and formal.
 
-![Sample Image](documentation/image1.png)
+Designed by Brian J. Bonislawsky for Astigmatic (AOETI).
 
 ## About
 
-Description of you and/or organisation goes here.
+DocRepair is a collection of fonts intended for improving document compatibility with the ISO/IEC 29500 standard.
 
 ## Building
 
@@ -41,14 +46,14 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 ## Changelog
 
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver.
-Changelog example:
+**9 March 2023 (Adam Twardoch)**
 
-**26 May 2021. Version 2.13**
+- MINOR First commit
+- MAJOR Design adaptation
 
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+**17 November 2001 (v.1.01) (Brian J. Bonislawsky)**
+
+- MINOR Design adjustments: reworked /W/ /w/ and /Z/ /z/
 
 ## License
 
