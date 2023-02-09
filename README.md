@@ -1,9 +1,6 @@
 # Dr Vivigraph
 
-Based on [Fondamento]
-
-- [original sources](https://github.com/googlefonts/googlefontsdirectory-old/tree/main/ofl/fondamento/src)
-- [current metadata](https://github.com/google/fonts/tree/main/ofl/fondamento)
+Based on Fondamento ([original sources](https://github.com/googlefonts/googlefontsdirectory-old/tree/main/ofl/fondamento/src), [latest binaries](https://github.com/google/fonts/tree/main/ofl/fondamento))
 
 [![][Fontbakery]](https://docrepair-fonts.github.io/dr-vivigraph-fonts.git/fontbakery/fontbakery-report.html)
 [![][Universal]](https://docrepair-fonts.github.io/dr-vivigraph-fonts.git/fontbakery/fontbakery-report.html)
