@@ -18,13 +18,14 @@ Designed by Brian J. Bonislawsky for Astigmatic (AOETI).
 
 ## ChangeLog
 
-9 March 2023 (Adam Twardoch)
+**9 March 2023 (Adam Twardoch)**
 
-- Design adjustments
+- MINOR First commit
+- MAJOR Design adaptation
 
-17 November 2001 (v.1.01) (Brian J. Bonislawsky)
+**17 November 2001 (v.1.01) (Brian J. Bonislawsky)**
 
-— Minor design adjustments: reworked /W/ /w/ and /Z/ /z/
+- MINOR Design adjustments: reworked /W/ /w/ and /Z/ /z/
 
 ## Acknowledgements
 
