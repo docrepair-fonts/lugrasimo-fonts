@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="2">
+  <advance width="771"/>
+  <unicode hex="0131"/>
+  <anchor x="284" y="0" name="bottom"/>
+  <anchor x="595.998" y="10" name="ogonek"/>
+  <anchor x="692.615" y="1024" name="top"/>
+  <outline>
+    <contour>
+      <point x="544.932" y="223.083" type="curve" smooth="yes"/>
+      <point x="544.932" y="143.769"/>
+      <point x="602.894" y="129"/>
+      <point x="670.777" y="129" type="curve" smooth="yes"/>
+      <point x="694.595" y="129"/>
+      <point x="718.506" y="130.907"/>
+      <point x="741.976" y="135" type="curve"/>
+      <point x="652.868" y="71.6756"/>
+      <point x="543.585" y="-20"/>
+      <point x="429.004" y="-20" type="curve" smooth="yes"/>
+      <point x="353.544" y="-20"/>
+      <point x="302.781" y="3.27355"/>
+      <point x="302.781" y="85.7079" type="curve" smooth="yes"/>
+      <point x="302.781" y="108.292"/>
+      <point x="306.075" y="130.913"/>
+      <point x="310.572" y="153" type="curve" smooth="yes"/>
+      <point x="417.278" y="677" type="line" smooth="yes"/>
+      <point x="422.871" y="704.467"/>
+      <point x="427.941" y="732.505"/>
+      <point x="427.941" y="760.628" type="curve" smooth="yes"/>
+      <point x="427.941" y="810.899"/>
+      <point x="409.259" y="846"/>
+      <point x="354.047" y="846" type="curve" smooth="yes"/>
+      <point x="321.009" y="846"/>
+      <point x="288.409" y="838.812"/>
+      <point x="256.25" y="832" type="curve"/>
+      <point x="408.007" y="928.633"/>
+      <point x="556.65" y="1032.15"/>
+      <point x="720.4" y="1108" type="curve"/>
+      <point x="550.551" y="273" type="line" smooth="yes"/>
+      <point x="547.217" y="256.612"/>
+      <point x="544.932" y="239.833"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  </dict>
+  </lib>
+</glyph>

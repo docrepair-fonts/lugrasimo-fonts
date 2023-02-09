@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="2">
+  <advance width="518"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="696.59" y="1164" type="line"/>
+      <point x="451.417" y="1013" type="line"/>
+      <point x="417.18" y="1082.55"/>
+      <point x="381.755" y="1153.95"/>
+      <point x="381.755" y="1233.34" type="curve" smooth="yes"/>
+      <point x="381.755" y="1372.87"/>
+      <point x="493.232" y="1521.08"/>
+      <point x="613.514" y="1584" type="curve" smooth="yes"/>
+      <point x="635.226" y="1595.36"/>
+      <point x="656.129" y="1606.22"/>
+      <point x="675.108" y="1622" type="curve"/>
+      <point x="607.382" y="1563.83"/>
+      <point x="513.867" y="1460.2"/>
+      <point x="513.867" y="1365.7" type="curve" smooth="yes"/>
+      <point x="513.867" y="1343.41"/>
+      <point x="519.94" y="1315"/>
+      <point x="547.763" y="1315" type="curve" smooth="yes"/>
+      <point x="565.058" y="1315"/>
+      <point x="603.362" y="1337.03"/>
+      <point x="618.157" y="1347" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  </dict>
+  </lib>
+</glyph>

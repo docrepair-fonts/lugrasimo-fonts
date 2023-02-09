@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="2">
+  <advance width="1246"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="1064.26" y="772" type="line"/>
+      <point x="657.506" y="523" type="line"/>
+      <point x="529.451" y="828" type="line"/>
+      <point x="935.006" y="1076" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  </dict>
+  </lib>
+</glyph>

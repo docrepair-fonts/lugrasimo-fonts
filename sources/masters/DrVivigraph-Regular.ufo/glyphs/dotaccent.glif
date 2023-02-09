@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+  <advance width="1197"/>
+  <unicode hex="02D9"/>
+  <anchor x="956.784" y="1200" name="_top"/>
+  <outline>
+    <contour>
+      <point x="1185.93" y="1521" type="line"/>
+      <point x="943.553" y="1369" type="line"/>
+      <point x="808.125" y="1527" type="line"/>
+      <point x="1049.9" y="1676" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="2">
+  <advance width="1197"/>
+  <unicode hex="00B4"/>
+  <anchor x="898.784" y="1200" name="_top"/>
+  <outline>
+    <contour>
+      <point x="1382.06" y="1877" type="curve"/>
+      <point x="1223.14" y="1701.32"/>
+      <point x="964.461" y="1472.79"/>
+      <point x="749.552" y="1374" type="curve"/>
+      <point x="752.15" y="1387" type="line"/>
+      <point x="868.146" y="1453.53"/>
+      <point x="969.564" y="1548.02"/>
+      <point x="1060.7" y="1645" type="curve" smooth="yes"/>
+      <point x="1088.79" y="1674.89"/>
+      <point x="1114.46" y="1707.22"/>
+      <point x="1144.69" y="1735" type="curve" smooth="yes"/>
+      <point x="1207.07" y="1792.34"/>
+      <point x="1306.88" y="1836.51"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="2">
+  <advance width="1197"/>
+  <unicode hex="02C7"/>
+  <anchor x="1017.78" y="1200" name="_top"/>
+  <outline>
+    <contour>
+      <point x="1612.48" y="1789" type="curve"/>
+      <point x="1524.04" y="1715.3"/>
+      <point x="1133.65" y="1394.89"/>
+      <point x="1050.95" y="1381" type="curve"/>
+      <point x="971.411" y="1456.5"/>
+      <point x="916.219" y="1552.7"/>
+      <point x="854.104" y="1642" type="curve"/>
+      <point x="894.92" y="1673.93"/>
+      <point x="1050.59" y="1784.95"/>
+      <point x="1092.48" y="1794" type="curve"/>
+      <point x="1158.19" y="1721.61"/>
+      <point x="1210.1" y="1638.48"/>
+      <point x="1266.52" y="1559" type="curve"/>
+      <point x="1302.38" y="1588.33"/>
+      <point x="1338.09" y="1617.86"/>
+      <point x="1374.1" y="1647" type="curve" smooth="yes"/>
+      <point x="1400.83" y="1668.62"/>
+      <point x="1435.68" y="1684.12"/>
+      <point x="1465.82" y="1700.37" type="curve" smooth="yes"/>
+      <point x="1515.91" y="1727.37"/>
+      <point x="1567.18" y="1754.31"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
