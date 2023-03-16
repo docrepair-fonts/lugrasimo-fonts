@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-  <key>_kernquoteleft</key>
-  <array>
-    <string>quoteleft</string>
-    <string>quotedblleft</string>
-  </array>
-  <key>_kernquoteright</key>
-  <array>
-    <string>quoteright</string>
-    <string>quotedblright</string>
-  </array>
-  <key>all_figures</key>
-  <array>
-    <string>zero</string>
-    <string>one</string>
-    <string>two</string>
-    <string>three</string>
-    <string>four</string>
-    <string>five</string>
-    <string>six</string>
-    <string>seven</string>
-    <string>eight</string>
-    <string>nine</string>
-  </array>
-  <key>slash</key>
-  <array>
-    <string>slash</string>
-  </array>
-</dict>
+  <dict>
+    <key>_kernquoteleft</key>
+    <array>
+      <string>quoteleft</string>
+      <string>quotedblleft</string>
+    </array>
+    <key>_kernquoteright</key>
+    <array>
+      <string>quoteright</string>
+      <string>quotedblright</string>
+    </array>
+    <key>all_figures</key>
+    <array>
+      <string>zero</string>
+      <string>one</string>
+      <string>two</string>
+      <string>three</string>
+      <string>four</string>
+      <string>five</string>
+      <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
+    </array>
+    <key>slash</key>
+    <array>
+      <string>slash</string>
+    </array>
+  </dict>
 </plist>
