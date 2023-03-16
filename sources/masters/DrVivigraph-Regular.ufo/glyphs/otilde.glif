@@ -8,7 +8,7 @@
   <anchor x="1416.62" y="1024" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="tilde" xOffset="-393.168" yOffset="-176"/>
+    <component base="tilde" xOffset="-393.165" yOffset="-176"/>
   </outline>
   <lib>
   <dict>

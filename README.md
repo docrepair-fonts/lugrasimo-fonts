@@ -14,14 +14,8 @@ Based on Fondamento ([original sources](https://github.com/googlefonts/googlefon
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-vivigraph-fonts.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-vivigraph-fonts.git%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Dr Vivigraphs Dr Vivigraph is a DocRepair font intended for improving 
-document compatibility with the ISO/IEC 29500 standard. Dr Vivigraph 
-is based on Fondamento. 
-
-Fondamento & Fondamento Italic are calligraphic lettering styles based
-on the traditional Foundational Hand, a basic teaching style created 
-by Edward Johnston in the early 20th century. The letterforms are clear
-and cleanly legible, basic and formal.
+Dr Vivigraph is a DocRepair font intended for improving document compatibility
+with the ISO/IEC 29500 standard. Dr Vivigraph is based on Fondamento, a typeface in calligraphic lettering style based on the traditional Foundational Hand, a basic teaching style created by Edward Johnston in the early 20th century. The letterforms are clear and cleanly legible, basic and formal.
 
 Designed by Brian J. Bonislawsky for Astigmatic (AOETI).
 

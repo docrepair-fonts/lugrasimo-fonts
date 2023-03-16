@@ -9,7 +9,7 @@
   <anchor x="2014.54" y="1434" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dieresis" xOffset="-17.2422" yOffset="234"/>
+    <component base="dieresis" xOffset="-17.24" yOffset="234"/>
   </outline>
   <lib>
   <dict>

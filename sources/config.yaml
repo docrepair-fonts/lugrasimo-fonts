@@ -4,4 +4,4 @@ buildVariable: false
 familyName: Dr Vivigraph
 outputDir: ../fonts
 sources:
-  - DrVivigraph.designspace
+  - dr-vivigraph-Regular.designspace

@@ -17,16 +17,16 @@
       <point x="1079" y="0" type="curve" smooth="yes"/>
       <point x="696" y="0" type="line"/>
       <point x="784.789" y="81.7425"/>
-      <point x="838.261" y="162.634"/>
+      <point x="838.26" y="162.634"/>
       <point x="862.349" y="282" type="curve" smooth="yes"/>
       <point x="918.299" y="562" type="line" smooth="yes"/>
       <point x="920.893" y="574.983"/>
       <point x="921.697" y="588.309"/>
-      <point x="921.697" y="601.523" type="curve" smooth="yes"/>
+      <point x="921.697" y="601.524" type="curve" smooth="yes"/>
       <point x="921.697" y="677.364"/>
       <point x="894.778" y="774.422"/>
       <point x="871.191" y="846.184" type="curve" smooth="yes"/>
-      <point x="823.658" y="990.796"/>
+      <point x="823.658" y="990.797"/>
       <point x="621.413" y="1469"/>
       <point x="437.535" y="1469" type="curve" smooth="yes"/>
       <point x="388.718" y="1469"/>
@@ -41,7 +41,7 @@
       <point x="1295.02" y="875.213"/>
       <point x="1649.62" y="1163.45"/>
       <point x="1649.62" y="1346.53" type="curve" smooth="yes"/>
-      <point x="1649.62" y="1417.91"/>
+      <point x="1649.62" y="1417.9"/>
       <point x="1602.96" y="1462"/>
       <point x="1532.14" y="1462" type="curve" smooth="yes"/>
       <point x="1511.77" y="1462"/>

@@ -24,7 +24,7 @@
       <point x="334.489" y="1724" type="line"/>
       <point x="371.704" y="1750.86"/>
       <point x="542.424" y="1872"/>
-      <point x="576.062" y="1872" type="curve" smooth="yes"/>
+      <point x="576.063" y="1872" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
