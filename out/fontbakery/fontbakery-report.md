@@ -1,8 +1,8 @@
 ## Fontbakery report
 
-Fontbakery version: 0.8.10
+Fontbakery version: 0.8.11
 
-<details><summary><b>[23] DrVivigraph-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
+<details><summary><b>[22] DrVivigraph-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
 
 
 * 🔥 **FAIL** In this font fsType is set to 4 meaning that:
@@ -386,18 +386,8 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 	- 0x0328 (COMBINING OGONEK)
  
 
-	- And 0x00AF (MACRON)
+	- 0x00AF (MACRON)
  [code: missing-codepoints]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check license file has good copyright string. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/license/OFL_copyright">com.google.fonts/check/license/OFL_copyright</a>)</summary><div>
-
-
-* 🔥 **FAIL** First line in license file is:
-
-"copyright 2023 the dr vivigraph project authors "
-
-which does not match the expected format, similar to:
-
-"Copyright 2022 The Familyname Project Authors (git url)" [code: bad-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
@@ -414,10 +404,6 @@ https://scripts.sil.org/OFL" Must be changed to "This Font Software is licensed 
 But instead we have got:
 "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved
 Font Name "Fondamento Italic"" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font is not italic, so post.italicAngle should be equal to zero. [code: non-zero-normal]
 </div></details><details><summary>🔥 <b>FAIL:</b> Name table entries should not contain line-breaks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/line_breaks">com.google.fonts/check/name/line_breaks</a>)</summary><div>
 
 
@@ -440,11 +426,10 @@ Font Name "Fondamento Italic"" [code: bad-notice-format]
 
 
 * 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 680 font units wide, non-breaking space named (nbspace) is 1360 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
-</div></details><details><summary>⚠ <b>WARN:</b> Checking OS/2 achVendID. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id">com.google.fonts/check/vendor_id</a>)</summary><div>
+</div></details><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (derived from com.google.fonts/check/italic_angle) (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/post.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
 
 
-* ⚠ **WARN** OS/2 VendorID value 'NONE' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
- [code: unknown]
+* 🔥 **FAIL** Font is not italic, so post.italicAngle should be equal to zero. [code: non-zero-upright]
 </div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
 
 
@@ -470,7 +455,6 @@ WARNING: hhea: Non-zero caretOffset but head.macStyle italic bit is not set, set
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
 * ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
 
 The following glyphs do not have the recommended number of contours:
@@ -479,16 +463,24 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: softhyphen	Contours detected: 1	Expected: 0
 
+	- Glyph name: Eth	Contours detected: 3	Expected: 2
+
 	- Glyph name: Oslash	Contours detected: 1	Expected: 2 or 3
 
 	- Glyph name: OE	Contours detected: 3	Expected: 2
+
+	- Glyph name: Eth	Contours detected: 3	Expected: 2
 
 	- Glyph name: OE	Contours detected: 3	Expected: 2
 
 	- Glyph name: Oslash	Contours detected: 1	Expected: 2 or 3 
 
-	- And Glyph name: section	Contours detected: 3	Expected: 2
+	- Glyph name: section	Contours detected: 3	Expected: 2
  [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
 </div></details><details><summary>⚠ <b>WARN:</b> Checking Vertical Metric Linegaps. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/hhea.html#com.google.fonts/check/linegaps">com.google.fonts/check/linegaps</a>)</summary><div>
 
 
@@ -524,7 +516,7 @@ The following glyphs do not have the recommended number of contours:
 
 	* Aring (U+00C5): L<<1349.0,735.0>--<1348.0,738.0>> -> L<<1348.0,738.0>--<1195.0,1307.0>> 
 
-	* And Atilde (U+00C3): L<<1349.0,735.0>--<1348.0,738.0>> -> L<<1348.0,738.0>--<1195.0,1307.0>> [code: found-colinear-vectors]
+	* Atilde (U+00C3): L<<1349.0,735.0>--<1348.0,738.0>> -> L<<1348.0,738.0>--<1195.0,1307.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
@@ -586,9 +578,9 @@ The following glyphs do not have the recommended number of contours:
 
 	* Egrave (U+00C8): L<<729.0,900.0>--<1506.0,900.0>>/B<<1506.0,900.0>-<1477.0,893.0>-<1440.5,871.0>> = 13.570434385161475
 
-	* Eth (U+00D0): L<<699.0,630.0>--<356.0,630.0>>/B<<356.0,630.0>-<378.0,635.0>-<406.0,658.5>> = 12.80426606528674
+	* Eth (U+00D0): L<<418.0,779.0>--<1212.0,779.0>>/B<<1212.0,779.0>-<1187.0,773.0>-<1154.5,749.5>> = 13.495733280795811
 
-	* Eth (U+00D0): L<<913.0,779.0>--<1367.0,779.0>>/B<<1367.0,779.0>-<1346.0,774.0>-<1318.0,750.5>> = 13.392497753751098
+	* Eth (U+00D0): L<<969.0,630.0>--<172.0,630.0>>/B<<172.0,630.0>-<198.0,636.0>-<230.0,659.5>> = 12.994616791916512
 
 	* F (U+0046): L<<499.0,149.0>--<1081.0,149.0>>/B<<1081.0,149.0>-<1055.0,144.0>-<1022.5,121.0>> = 10.885527054658743
 
@@ -628,7 +620,7 @@ The following glyphs do not have the recommended number of contours:
 
 	* Ntilde (U+00D1): B<<1999.5,1844.5>-<2044.0,1872.0>-<2075.0,1890.0>>/B<<2075.0,1890.0>-<2011.0,1828.0>-<1930.5,1767.5>> = 13.949233998725484
 
-	* OE (U+0152): L<<962.0,900.0>--<1739.0,900.0>>/B<<1739.0,900.0>-<1710.0,893.0>-<1673.5,871.0>> = 13.570434385161475
+	* OE (U+0152): L<<1270.0,883.0>--<2047.0,883.0>>/B<<2047.0,883.0>-<2018.0,876.0>-<1981.5,854.0>> = 13.570434385161475
 
 	* Ocircumflex (U+00D4): B<<1013.5,1691.0>-<949.0,1664.0>-<895.0,1619.0>>/B<<895.0,1619.0>-<922.0,1641.0>-<979.0,1687.5>> = 0.6319131218212173
 
@@ -928,14 +920,15 @@ The following glyphs do not have the recommended number of contours:
 
 	* yen (U+00A5): B<<1302.0,1462.0>-<1271.0,1462.0>-<1240.0,1455.0>>/B<<1240.0,1455.0>-<1283.0,1469.0>-<1316.0,1495.0>> = 5.309929881707482 
 
-	* And yen (U+00A5): B<<311.5,1452.0>-<272.0,1435.0>-<242.0,1415.0>>/B<<242.0,1415.0>-<287.0,1459.0>-<351.0,1503.0>> = 10.666186759844823 [code: found-jaggy-segments]
+	* yen (U+00A5): B<<311.5,1452.0>-<272.0,1435.0>-<242.0,1415.0>>/B<<242.0,1415.0>-<287.0,1459.0>-<351.0,1503.0>> = 10.666186759844823 [code: found-jaggy-segments]
 </div></details><br></div></details>
+
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 11 | 12 | 115 | 7 | 82 | 0 |
-| 0% | 5% | 5% | 51% | 3% | 36% | 0% |
+| 0 | 10 | 12 | 122 | 7 | 91 | 0 |
+| 0% | 4% | 5% | 50% | 3% | 38% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**

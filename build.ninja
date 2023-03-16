@@ -7,7 +7,7 @@ rule proofing
 # Build rules
 build out/proof/Regular: proofing
   fonts = $
-      /Users/adam/Developer/vcs/github.docrepair-fonts/pub/dr-vivigraph-fonts/fonts/ttf/DrVivigraph-Regular.ttf
+      /Users/adam/Developer/vcs/github.docrepair-fonts/priv/dr-vivigraph-fonts.priv/public/dr-vivigraph-fonts/fonts/ttf/DrVivigraph-Regular.ttf
   out = out/diffbrowsers
   pt_size = 20
   filters = Regular
