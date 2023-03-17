@@ -179,6 +179,10 @@ http://scripts.sil.org/OFL</string>
       <integer>-20</integer>
       <integer>0</integer>
     </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
     <key>postscriptFontName</key>
     <string>DrVivigraph-Regular</string>
     <key>postscriptForceBold</key>
@@ -187,6 +191,12 @@ http://scripts.sil.org/OFL</string>
     <string>Dr Vivigraph Regular</string>
     <key>postscriptIsFixedPitch</key>
     <false/>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-200</integer>
     <key>postscriptUnderlineThickness</key>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
   <advance width="1996"/>
   <unicode hex="0041"/>
@@ -77,9 +77,9 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>:ref_Regular</string>
-  </dict>
+    <dict>
+      <key>com.fontlab.metricsWidth</key>
+      <string>:ref_Regular</string>
+    </dict>
   </lib>
 </glyph>
