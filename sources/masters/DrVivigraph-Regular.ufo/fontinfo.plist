@@ -73,11 +73,7 @@
     <key>openTypeHheaAscender</key>
     <integer>2122</integer>
     <key>openTypeHheaCaretOffset</key>
-    <integer>-6</integer>
-    <key>openTypeHheaCaretSlopeRise</key>
-    <integer>5</integer>
-    <key>openTypeHheaCaretSlopeRun</key>
-    <integer>1</integer>
+    <integer>0</integer>
     <key>openTypeHheaDescender</key>
     <integer>-666</integer>
     <key>openTypeHheaLineGap</key>
@@ -100,11 +96,6 @@
     <string>Regular</string>
     <key>openTypeNameVersion</key>
     <string>Version 1.001</string>
-    <key>openTypeOS2CodePageRanges</key>
-    <array>
-      <integer>0</integer>
-      <integer>29</integer>
-    </array>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>3</integer>
@@ -119,9 +110,7 @@
       <integer>1</integer>
     </array>
     <key>openTypeOS2Selection</key>
-    <array>
-      <integer>7</integer>
-    </array>
+    <array/>
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>800</integer>
     <key>openTypeOS2StrikeoutSize</key>
@@ -150,11 +139,6 @@
     <integer>-666</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>-370</integer>
-    <key>openTypeOS2UnicodeRanges</key>
-    <array>
-      <integer>0</integer>
-      <integer>1</integer>
-    </array>
     <key>openTypeOS2VendorID</key>
     <string>GOOG</string>
     <key>openTypeOS2WeightClass</key>
@@ -205,7 +189,7 @@
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
-    <string>Italic</string>
+    <string>Regular</string>
     <key>trademark</key>
     <string>Fondamento Italic is a trademark of Astigmatic (AOETI).</string>
     <key>unitsPerEm</key>

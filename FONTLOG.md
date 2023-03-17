@@ -17,6 +17,10 @@ Bonislawsky for Astigmatic (AOETI).
 
 ## ChangeLog
 
+**17 March 2023 (Adam Twardoch)**
+
+- MINOR Build scripts and small revisions to sources
+
 **9 March 2023 (Adam Twardoch)**
 
 - MINOR First commit
@@ -29,7 +33,7 @@ email (E), web-address (if you have one) (W) and description (D).
 This list is in alphabetical order.
 
 N: Adam Twardoch
-E: adam@twardoch.com
+E: adam+github@twardoch.com
 W: www.twardoch.com
 D: Typeface & Software Designer
 

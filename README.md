@@ -35,17 +35,6 @@ If you want to build fonts manually on your own computer:
 
 The proof files and QA tests are also available automatically via GitHub Actions - look at https://docrepair-fonts.github.io/dr-vivigraph-fonts.git.
 
-## Changelog
-
-**9 March 2023 (Adam Twardoch)**
-
-- MINOR First commit
-- MAJOR Design adaptation
-
-**17 November 2001 (v.1.01) (Brian J. Bonislawsky)**
-
-- MINOR Design adjustments: reworked /W/ /w/ and /Z/ /z/
-
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

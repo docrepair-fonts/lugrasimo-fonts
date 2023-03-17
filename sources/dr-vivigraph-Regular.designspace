@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis minimum="1" name="weight" default="400" maximum="1000" tag="wght">
+  <axis name="weight" minimum="1" maximum="1000" tag="wght" default="400">
    <labelname xml:lang="en">Weight</labelname>
-   <map input="1" output="1"/>
-   <map input="400" output="400"/>
-   <map input="1000" output="1000"/>
+   <map output="1" input="1"/>
+   <map output="400" input="400"/>
+   <map output="1000" input="1000"/>
   </axis>
  </axes>
  <sources>
-  <source filename="masters/DrVivigraph-Regular.ufo" name="Regular" familyname="Dr Vivigraph" stylename="Regular">
+  <source name="Regular" stylename="Regular" filename="masters/DrVivigraph-Regular.ufo" familyname="Dr Vivigraph">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </source>
  </sources>
@@ -36,9 +36,9 @@
   </dict>
  </lib>
  <instances>
-  <instance filename="instances/DrVivigraph-Regular.ufo" name="Regular" familyname="Dr Vivigraph" stylename="Regular">
+  <instance name="Regular" stylename="Regular" filename="instances/DrVivigraph-Regular.ufo" familyname="Dr Vivigraph">
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
  </instances>
