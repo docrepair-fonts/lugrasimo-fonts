@@ -2,14 +2,7 @@
 
 Fontbakery version: 0.8.11
 
-<details><summary><b>[22] DrVivigraph-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
-
-
-* 🔥 **FAIL** In this font fsType is set to 4 meaning that:
-The font may be embedded, and temporarily loaded on the remote system, but documents that use it must not be editable.
-
-No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+<details><summary><b>[19] DrVivigraph-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * 🔥 **FAIL** Missing required codepoints:
@@ -350,9 +343,6 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 	- 0x017C (LATIN SMALL LETTER Z WITH DOT ABOVE)
 
 
-	- 0x00B7 (MIDDLE DOT)
-
-
 	- 0x2212 (MINUS SIGN)
 
 
@@ -381,12 +371,9 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 
 
 	- 0x0327 (COMBINING CEDILLA)
-
-
-	- 0x0328 (COMBINING OGONEK)
  
 
-	- 0x00AF (MACRON)
+	- 0x0328 (COMBINING OGONEK)
  [code: missing-codepoints]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
@@ -465,17 +452,59 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: Eth	Contours detected: 3	Expected: 2
 
-	- Glyph name: Oslash	Contours detected: 1	Expected: 2 or 3
-
 	- Glyph name: OE	Contours detected: 3	Expected: 2
+
+	- Glyph name: florin	Contours detected: 0	Expected: 1
+
+	- Glyph name: macron	Contours detected: 0	Expected: 1
+
+	- Glyph name: Omega	Contours detected: 0	Expected: 1
+
+	- Glyph name: Delta	Contours detected: 0	Expected: 2
+
+	- Glyph name: summation	Contours detected: 0	Expected: 1
+
+	- Glyph name: fraction	Contours detected: 0	Expected: 1
+
+	- Glyph name: periodcentered	Contours detected: 0	Expected: 1
+
+	- Glyph name: radical	Contours detected: 0	Expected: 1
+
+	- Glyph name: integral	Contours detected: 0	Expected: 1
+
+	- Glyph name: lessequal	Contours detected: 0	Expected: 2
+
+	- Glyph name: greaterequal	Contours detected: 0	Expected: 2
+
+	- Glyph name: lozenge	Contours detected: 0	Expected: 2
 
 	- Glyph name: Eth	Contours detected: 3	Expected: 2
 
 	- Glyph name: OE	Contours detected: 3	Expected: 2
 
-	- Glyph name: Oslash	Contours detected: 1	Expected: 2 or 3 
+	- Glyph name: fi	Contours detected: 0	Expected: 3
 
-	- Glyph name: section	Contours detected: 3	Expected: 2
+	- Glyph name: fl	Contours detected: 0	Expected: 2
+
+	- Glyph name: fraction	Contours detected: 0	Expected: 1
+
+	- Glyph name: greaterequal	Contours detected: 0	Expected: 2
+
+	- Glyph name: integral	Contours detected: 0	Expected: 1
+
+	- Glyph name: lessequal	Contours detected: 0	Expected: 2
+
+	- Glyph name: lozenge	Contours detected: 0	Expected: 2
+
+	- Glyph name: macron	Contours detected: 0	Expected: 1
+
+	- Glyph name: periodcentered	Contours detected: 0	Expected: 1
+
+	- Glyph name: radical	Contours detected: 0	Expected: 1
+
+	- Glyph name: section	Contours detected: 3	Expected: 2 
+
+	- Glyph name: summation	Contours detected: 0	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
 
@@ -485,16 +514,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** OS/2 sTypoLineGap is not equal to 0. [code: OS/2]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute (U+00B4), breve (U+02D8), caron (U+02C7), circumflex (U+02C6), dieresis (U+00A8), dotaccent (U+02D9), grave (U+0060), hungarumlaut (U+02DD), ring (U+02DA) and tilde (U+02DC) [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0060, U+00A8, U+00B4, U+02C6, U+02C7, U+02D8, U+02D9, U+02DA, U+02DC and U+02DD [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
 
 
@@ -927,8 +946,8 @@ The following glyphs do not have the recommended number of contours:
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 10 | 12 | 122 | 7 | 91 | 0 |
-| 0% | 4% | 5% | 50% | 3% | 38% | 0% |
+| 0 | 9 | 10 | 125 | 7 | 91 | 0 |
+| 0% | 4% | 4% | 52% | 3% | 38% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
