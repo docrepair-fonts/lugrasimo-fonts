@@ -1,4 +1,5 @@
-# Dr Vivigraph
+
+# Dr Vivigraph OFL fonts
 
 Based on Fondamento ([original sources](https://github.com/googlefonts/googlefontsdirectory-old/tree/main/ofl/fondamento/src), [latest binaries](https://github.com/google/fonts/tree/main/ofl/fondamento))
 
