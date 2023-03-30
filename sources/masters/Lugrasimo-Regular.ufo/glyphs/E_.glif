@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="2">
+  <advance width="1506"/>
+  <unicode hex="0045"/>
+  <anchor x="651" y="0" name="bottom"/>
+  <anchor x="1257" y="10" name="ogonek"/>
+  <anchor x="1223.54" y="1434" name="top"/>
+  <anchor x="490.541" y="1434" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="1811.91" y="1586" type="line"/>
+      <point x="1732.48" y="1561.13"/>
+      <point x="1594.94" y="1435"/>
+      <point x="1528.17" y="1435" type="curve" smooth="yes"/>
+      <point x="838.741" y="1435" type="line"/>
+      <point x="728.838" y="900" type="line"/>
+      <point x="1505.84" y="900" type="line"/>
+      <point x="1466.76" y="891.185"/>
+      <point x="1412.37" y="854.213"/>
+      <point x="1377.98" y="832" type="curve" smooth="yes"/>
+      <point x="1338.33" y="806.394"/>
+      <point x="1253.7" y="751"/>
+      <point x="1207.77" y="751" type="curve" smooth="yes"/>
+      <point x="699.065" y="751" type="line"/>
+      <point x="627.529" y="393" type="line" smooth="yes"/>
+      <point x="613.666" y="323.624"/>
+      <point x="573.493" y="180.527"/>
+      <point x="504.773" y="149" type="curve"/>
+      <point x="1327.07" y="149" type="line" smooth="yes"/>
+      <point x="1396.35" y="149"/>
+      <point x="1501.8" y="185.1"/>
+      <point x="1568.56" y="208" type="curve"/>
+      <point x="1504.5" y="155.823"/>
+      <point x="1208.93" y="0"/>
+      <point x="1133.71" y="0" type="curve" smooth="yes"/>
+      <point x="236" y="0" type="line"/>
+      <point x="339.247" y="108.376"/>
+      <point x="375.093" y="200.791"/>
+      <point x="403.938" y="345" type="curve" smooth="yes"/>
+      <point x="485.065" y="751" type="line"/>
+      <point x="332.065" y="751" type="line"/>
+      <point x="511.043" y="871" type="line"/>
+      <point x="623.741" y="1435" type="line"/>
+      <point x="418.741" y="1435" type="line"/>
+      <point x="460.743" y="1463.19"/>
+      <point x="646.21" y="1586"/>
+      <point x="683.846" y="1586" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  </dict>
+  </lib>
+</glyph>

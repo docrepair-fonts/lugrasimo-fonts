@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+  <advance width="1295"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="1016.43" y="918" type="line"/>
+      <point x="772.262" y="767" type="line"/>
+      <point x="694.228" y="952" type="line"/>
+      <point x="936.001" y="1101" type="line"/>
+    </contour>
+    <contour>
+      <point x="1309.28" y="677" type="line"/>
+      <point x="1236.39" y="656.674"/>
+      <point x="1124.38" y="528"/>
+      <point x="1062.5" y="528" type="curve" smooth="yes"/>
+      <point x="268.505" y="528" type="line"/>
+      <point x="341.826" y="548.281"/>
+      <point x="453.556" y="677"/>
+      <point x="513.278" y="677" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="886.552" y="268" type="line"/>
+      <point x="640.978" y="120" type="line"/>
+      <point x="562.346" y="302" type="line"/>
+      <point x="806.518" y="453" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  </dict>
+  </lib>
+</glyph>

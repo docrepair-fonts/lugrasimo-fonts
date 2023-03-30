@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aacute" format="2">
+  <advance width="1996"/>
+  <unicode hex="00C1"/>
+  <anchor x="761" y="0" name="bottom"/>
+  <anchor x="1563" y="10" name="ogonek"/>
+  <outline>
+    <component base="A"/>
+    <component base="acute" xOffset="434.756" yOffset="234"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  <key>com.fontlab.recipe</key>
+  <string>A+acute</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="atilde" format="2">
+  <advance width="1369"/>
+  <unicode hex="00E3"/>
+  <anchor x="583" y="0" name="bottom"/>
+  <anchor x="1134" y="10" name="ogonek"/>
+  <outline>
+    <component base="a"/>
+    <component base="tilde" xOffset="-242.165" yOffset="-176"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  <key>com.fontlab.recipe</key>
+  <string>a+tilde</string>
+  </dict>
+  </lib>
+</glyph>

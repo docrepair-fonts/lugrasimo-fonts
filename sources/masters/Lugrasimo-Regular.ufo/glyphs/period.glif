@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="2">
+  <advance width="580"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="488.379" y="117" type="line"/>
+      <point x="241.206" y="-34" type="line"/>
+      <point x="165.173" y="151" type="line"/>
+      <point x="406.946" y="300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  </dict>
+  </lib>
+</glyph>

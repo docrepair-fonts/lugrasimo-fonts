@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="2">
+  <advance width="1506"/>
+  <unicode hex="00C8"/>
+  <anchor x="651" y="0" name="bottom"/>
+  <anchor x="1257" y="10" name="ogonek"/>
+  <anchor x="490.541" y="1434" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="grave" xOffset="72.76" yOffset="234"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  <key>com.fontlab.recipe</key>
+  <string>E+grave</string>
+  </dict>
+  </lib>
+</glyph>

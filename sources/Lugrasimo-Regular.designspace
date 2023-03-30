@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis tag="wght" minimum="1" maximum="1000" default="400" name="weight">
+   <labelname xml:lang="en">Weight</labelname>
+   <map input="1" output="1"/>
+   <map input="400" output="400"/>
+   <map input="1000" output="1000"/>
+  </axis>
+ </axes>
+ <sources>
+  <source filename="masters/Lugrasimo-Regular.ufo" stylename="Regular" familyname="Lugrasimo" name="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension xvalue="400" name="weight"/>
+   </location>
+  </source>
+ </sources>
+ <lib>
+  <dict>
+   <key>com.github.googlei18n.ufo2ft.featureWriters</key>
+   <array>
+    <dict>
+     <key>class</key>
+     <string>KernFeatureWriter</string>
+     <key>options</key>
+     <dict>
+      <key>mode</key>
+      <string>skip</string>
+     </dict>
+    </dict>
+   </array>
+  </dict>
+ </lib>
+ <instances>
+  <instance filename="instances/Lugrasimo-Regular.ufo" stylename="Regular" familyname="Lugrasimo" name="Regular">
+   <location>
+    <dimension xvalue="400" name="weight"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+  <advance width="722"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="1161.06" y="1872" type="line"/>
+      <point x="1091.87" y="1855.29"/>
+      <point x="981.328" y="1724"/>
+      <point x="919.489" y="1724" type="curve" smooth="yes"/>
+      <point x="738.489" y="1724" type="line"/>
+      <point x="388.803" y="-16" type="line" smooth="yes"/>
+      <point x="374.727" y="-86.0398"/>
+      <point x="326.162" y="-152.159"/>
+      <point x="269.235" y="-194" type="curve"/>
+      <point x="725.235" y="-194" type="line"/>
+      <point x="686.731" y="-220.477"/>
+      <point x="512.802" y="-343"/>
+      <point x="479.462" y="-343" type="curve" smooth="yes"/>
+      <point x="18.4618" y="-343" type="line"/>
+      <point x="109.825" y="-268.388"/>
+      <point x="142.498" y="-161.091"/>
+      <point x="165.009" y="-50" type="curve" smooth="yes"/>
+      <point x="524.489" y="1724" type="line" smooth="yes"/>
+      <point x="530.006" y="1751.23"/>
+      <point x="734.082" y="1872"/>
+      <point x="766.063" y="1872" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  </dict>
+  </lib>
+</glyph>

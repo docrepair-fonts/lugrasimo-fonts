@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="2">
+  <advance width="2051"/>
+  <unicode hex="0152"/>
+  <anchor x="2255" y="0" name="bottom"/>
+  <anchor x="986.271" y="717" name="center"/>
+  <anchor x="2861" y="10" name="ogonek"/>
+  <anchor x="2827.54" y="1434" name="top"/>
+  <anchor x="2094.54" y="1434" name="topleft"/>
+  <anchor x="2054.54" y="1434" name="topright"/>
+  <outline>
+    <component base="O" xOffset="-0.0161" yOffset="4.7776"/>
+    <component base="E" xOffset="541.37" yOffset="-16.7224"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
+  </dict>
+  </lib>
+</glyph>
