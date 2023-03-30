@@ -1,7 +1,7 @@
 ---
 buildOTF: false
 buildVariable: false
-familyName: Dr Vivigraph
+familyName: Lugrasimo
 outputDir: ../fonts
 sources:
-  - dr-vivigraph-Regular.designspace
+  - Lugrasimo-Regular.designspace

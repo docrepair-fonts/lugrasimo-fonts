@@ -1,28 +1,15 @@
 
-# Dr Vivigraph OFL fonts
+# Lugrasimo
 
-Based on Fondamento ([original sources](https://github.com/googlefonts/googlefontsdirectory-old/tree/main/ofl/fondamento/src), [latest binaries](https://github.com/google/fonts/tree/main/ofl/fondamento))
-
-[![][Fontbakery]](https://docrepair-fonts.github.io/dr-vivigraph-fonts.git/fontbakery/fontbakery-report.html)
-[![][Universal]](https://docrepair-fonts.github.io/dr-vivigraph-fonts.git/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://docrepair-fonts.github.io/dr-vivigraph-fonts.git/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://docrepair-fonts.github.io/dr-vivigraph-fonts.git/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://docrepair-fonts.github.io/dr-vivigraph-fonts.git/fontbakery/fontbakery-report.html)
-
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-vivigraph-fonts.git%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-vivigraph-fonts.git%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-vivigraph-fonts.git%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-vivigraph-fonts.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Fdr-vivigraph-fonts.git%2Fgh-pages%2Fbadges%2FUniversal.json
-
-Dr Vivigraph is a DocRepair font intended for improving document compatibility
-with the ISO/IEC 29500 standard. Dr Vivigraph is based on Fondamento, a typeface in calligraphic lettering style based on the traditional Foundational Hand, a basic teaching style created by Edward Johnston in the early 20th century. The letterforms are clear and cleanly legible, basic and formal.
+Lugrasimo is a DocRepair font, intended to improve compliance with the
+ISO/IEC 29500 standard by providing fallback that minimizes text reflow in
+Office Open XML documents. Lugrasimo is based on Fondamento, a typeface in calligraphic lettering style based on the traditional Foundational Hand, a basic teaching style created by Edward Johnston in the early 20th century. The letterforms are clear and cleanly legible, basic and formal.
 
 Designed by Brian J. Bonislawsky for Astigmatic (AOETI).
 
 ## About
 
-DocRepair is a collection of fonts intended for improving document compatibility with the ISO/IEC 29500 standard.
+Based on Fondamento ([original sources](https://github.com/googlefonts/googlefontsdirectory-old/tree/main/ofl/fondamento/src), [latest binaries](https://github.com/google/fonts/tree/main/ofl/fondamento))
 
 ## Building
 

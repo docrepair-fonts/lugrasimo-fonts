@@ -233,20 +233,20 @@
       <string>currency</string>
       <string>softhyphen</string>
       <string>space</string>
-      <string>lozenge</string>
-      <string>lessequal</string>
+      <string>fraction</string>
       <string>Omega</string>
+      <string>florin</string>
       <string>fi</string>
-      <string>Delta</string>
-      <string>periodcentered</string>
-      <string>radical</string>
       <string>greaterequal</string>
+      <string>Delta</string>
+      <string>fl</string>
+      <string>periodcentered</string>
+      <string>lozenge</string>
       <string>summation</string>
       <string>integral</string>
+      <string>lessequal</string>
       <string>macron</string>
-      <string>fraction</string>
-      <string>fl</string>
-      <string>florin</string>
+      <string>radical</string>
     </array>
   </dict>
 </plist>
