@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>1434</integer>
     <key>copyright</key>
-    <string>Copyright 2011 Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Names "Fondamento" and "Fondamento Italic". Copyright 2023 The Lugrasimo Project Authors (github.com/googlefonts/lugrasimo).</string>
+    <string>Copyright 2011 Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Names "Fondamento" and "Fondamento Italic". Copyright 2023 The Lugrasimo Project Authors (https://github.com/docrepair-fonts/lugrasimo-fonts).</string>
     <key>descender</key>
     <integer>-666</integer>
     <key>familyName</key>
@@ -79,9 +79,9 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
-    <string>Astigmatic (AOETI)</string>
+    <string>The DocRepair Project, Astigmatic (AOETI)</string>
     <key>openTypeNameDesignerURL</key>
-    <string>http://www.astigmatic.com/</string>
+    <string>https://github.com/docrepair-fonts/lugrasimo-fonts</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
