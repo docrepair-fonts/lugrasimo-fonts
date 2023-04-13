@@ -46,7 +46,7 @@
       </dict>
     </array>
     <key>italicAngle</key>
-    <real>-11.25</real>
+    <integer>0</integer>
     <key>openTypeGaspRangeRecords</key>
     <array>
       <dict>
