@@ -2,8 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>com.typemytype.robofont.italicSlantOffset</key>
-    <real>-6.0</real>
+    <key>com.github.googlei18n.ufo2ft.featureWriters</key>
+    <array>
+      <dict>
+        <key>class</key>
+        <string>KernFeatureWriter</string>
+        <key>options</key>
+        <dict>
+          <key>mode</key>
+          <string>skip</string>
+        </dict>
+      </dict>
+    </array>
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>
@@ -233,20 +243,20 @@
       <string>currency</string>
       <string>softhyphen</string>
       <string>space</string>
-      <string>fi</string>
-      <string>periodcentered</string>
-      <string>radical</string>
-      <string>Delta</string>
-      <string>integral</string>
-      <string>lozenge</string>
-      <string>florin</string>
-      <string>lessequal</string>
-      <string>Omega</string>
-      <string>fl</string>
       <string>fraction</string>
-      <string>macron</string>
+      <string>radical</string>
+      <string>florin</string>
+      <string>lozenge</string>
+      <string>fi</string>
+      <string>lessequal</string>
       <string>greaterequal</string>
+      <string>periodcentered</string>
       <string>summation</string>
+      <string>Omega</string>
+      <string>Delta</string>
+      <string>macron</string>
+      <string>fl</string>
+      <string>integral</string>
     </array>
   </dict>
 </plist>
