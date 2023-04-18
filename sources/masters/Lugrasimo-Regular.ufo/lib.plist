@@ -243,20 +243,20 @@
       <string>currency</string>
       <string>softhyphen</string>
       <string>space</string>
-      <string>fraction</string>
-      <string>radical</string>
       <string>florin</string>
-      <string>lozenge</string>
-      <string>fi</string>
-      <string>lessequal</string>
-      <string>greaterequal</string>
-      <string>periodcentered</string>
-      <string>summation</string>
-      <string>Omega</string>
-      <string>Delta</string>
-      <string>macron</string>
-      <string>fl</string>
       <string>integral</string>
+      <string>periodcentered</string>
+      <string>greaterequal</string>
+      <string>lozenge</string>
+      <string>radical</string>
+      <string>lessequal</string>
+      <string>fl</string>
+      <string>fi</string>
+      <string>Omega</string>
+      <string>summation</string>
+      <string>macron</string>
+      <string>fraction</string>
+      <string>Delta</string>
     </array>
   </dict>
 </plist>
